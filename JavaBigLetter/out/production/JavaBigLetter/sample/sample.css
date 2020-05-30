@@ -1,0 +1,23 @@
+.TextArea {
+    -fx-control-inner-background: rgb(248, 248, 248);
+    -fx-text-fill: rgb(134, 134, 134);
+    -fx-background-radius: 0px;
+}
+
+.BPane {
+    -fx-background-color: rgb(255, 255, 255);
+}
+
+.Btn {
+    -fx-background-color: rgb(172, 171, 171);
+    -fx-background-radius: 0px;
+    -fx-text-fill: rgb(238, 238, 238);
+}
+
+.Btn:hover {
+    -fx-background-color: rgb(189, 189, 189);
+}
+
+.Btn:pressed {
+    -fx-background-color: rgb(116, 116, 116);
+}
